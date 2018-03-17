@@ -7,4 +7,4 @@
 Image by: John Jones-Molina
 
 <h2> Human Homology Models of Cav family: </h2>
-When using our models plese cite our paper, thanks!
+When using our models please cite our paper, thanks!
