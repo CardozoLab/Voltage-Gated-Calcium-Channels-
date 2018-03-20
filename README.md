@@ -1,13 +1,14 @@
+**Please cite us when using our materials, thanks!**
 # Improved method for modeling voltage-gated ion channels applied to human Cav channels
-##              Wilnelly Martinez-Ortiz & Timothy J. Cardozo
-###             NYU Langone Health, New York, NY 10016
+##              Wilnelly Martinez-Ortiz & Timothy J. Cardozo           
 
 <div>
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/protein%20in%20membrane%20WILLA%20v110001.jpg"> 
+![Voltage Gated Ion Channels](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/protein%20in%20membrane%20WILLA%20v110001.jpg) 
 </div>
 Image by: John A. Jones-Molina
 
 ## Human Homology Models of Cav family: 
+Template: Rabbit Cav1.1 model- PDB:6BYO
 <div>
 <img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H11.png"> 
 Cav1.1
@@ -87,5 +88,4 @@ Cav3.3
 </div>    
 
 
-
-### Please cite us when using our materials, thanks! 
+ 
