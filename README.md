@@ -18,72 +18,68 @@ Template used for modeling the human channels: Rabbit Cav1.1 model- PDB:6BYO
   
             
 
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H11.png">    </div>          
+[<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H11.png">](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav11.pdb.zip)    </div>          
 <a href="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav11.pdb.zip"> Cav1.1 </a>
 </div>             
 
 
 
-<div>
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H12.png"> 
+
+[<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H12.png">](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav12.pdb.zip)     
 <a href="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav12.pdb.zip"> Cav1.2 </a> 
      
 
 
-</div> 
-<div>
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H13.png"> 
+ 
+[<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H13.png">](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav13.pdb.zip) 
 <a href="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav13.pdb.zip"> Cav1.3 </a>
     
 
 
-</div> 
-<div>
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H14.png"> 
+
+[<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H14.png">](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav14.pdb.zip) 
 <a href="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav14.pdb.zip"> Cav1.4 </a>
  
 
 
-</div> 
-<div>
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H21.png"> 
+ 
+[<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H21.png">](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav21.pdb.zip) 
 <a href="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav21.pdb.zip"> Cav2.1 </a>
-</div>            
+        
 
 
 
-<div>
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H22.png"> 
+[<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H22.png">](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav22.pdb.zip) 
 <a href="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav22.pdb.zip"> Cav2.2 </a>
-</div>     
+   
 
 
 
-<div>
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H23.png"> 
+
+[<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H23.png">](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav23.pdb.zip) 
 <a href="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav23.pdb.zip"> Cav2.3 </a>
-</div>    
+  
 
 
 
-<div>
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H31.png"> 
+
+[<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H31.png">](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav31.pdb.zip) 
 <a href="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav31.pdb.zip"> Cav3.1 </a>
-</div>            
+         
 
 
 
-<div>
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H32.png">
+
+[<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H32.png">](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav32.pdb.zip) 
 <a href="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav32.pdb.zip"> Cav3.2 </a>
-</div>     
+    
 
 
 
-<div>
-<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H33.png"> 
+
+[<img src="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/H33.png">](https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav33.pdb.zip) 
 <a href="https://github.com/CardozoLab/Voltage-Gated-Calcium-Channels-/blob/master/HCav33.pdb.zip"> Cav3.3 </a>
-</div>    
+   
 
 
  
